@@ -1,5 +1,5 @@
 _repo: -The-Kingdom-of-God-Is-Within-You---13-Christianity-Not-as-a-Mystic-Religion-but-as-a-New-Theo__4602
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Garnett, Constance
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
     - http://en.wikipedia.org/wiki/Constance_Garnett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -32,6 +35,8 @@ description: "The Kingdom of God Is Within You (Russian: Царство Божи
   \ literal Christian interpretation.\nThe Kingdom of God is Within You is a key text\
   \ for Tolstoyan, nonviolent resistance, and Christian anarchist movements.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4602#-The-Kingdom-of-God-Is-Within-You---13-Christianity-Not-as-a-Mystic-Religion-but-as-a-New-Theo_
 gutenberg_bookshelf: Anarchism
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
